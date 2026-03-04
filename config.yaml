@@ -28,7 +28,7 @@ menu:
       url: "/index.xml"
 
 params:
-  description: "A Hugo theme ported from the static site generator Ivy."
+  description: "此处也可以修改：A Hugo theme ported from the static site generator Ivy."
   footer: "&copy; [Yihui Xie](https://yihui.org) 2017-{Year} | [Github](https://github.com/yihui)"
   highlightjsLang: ["latex"]
   highlightjsTheme: "github"
